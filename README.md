@@ -15,7 +15,7 @@ Have a look some of my full stack projects
 - https://github.com/odbalapure/bookmyseats
 - https://github.com/odbalapure/fixit
 
-<hr />
+### 
 <div>LinkedIn</div>
 
 <!--
