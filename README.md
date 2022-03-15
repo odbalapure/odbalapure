@@ -15,9 +15,10 @@ Have a look some of my full stack projects
 - https://github.com/odbalapure/bookmyseats
 - https://github.com/odbalapure/fixit
 
-<!--
-**odbalapure/odbalapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
+<div>LinkedIn</div>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... a side project
