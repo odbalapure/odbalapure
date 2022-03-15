@@ -1,6 +1,6 @@
 ### Om Balapure 👋
 
-I am a Software Engineer working and I am very passionate about Full Stack Web Development.
+I am a Software Engineer and I am very passionate about Full Stack Web Development.
 
 ## Skills
 - HTML, CSS and Javascript
