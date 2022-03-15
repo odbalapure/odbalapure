@@ -1,6 +1,6 @@
 ### Om Balapure 👋
 
-I am a Software Engineer working in the test automation domain with a keen interest in Fullstack Web Developement
+I am a Software Engineer working and I am very passionate about Full Stack Web Development.
 
 ## Skills
 - HTML, CSS and Javascript
