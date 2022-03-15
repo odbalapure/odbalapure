@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 -->
+
+I am a Software Engineer working in the test automation domain
+with a keen interest in Fullstack Web Developement
+
