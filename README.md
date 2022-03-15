@@ -15,7 +15,7 @@ Have a look some of my full stack projects
 - https://github.com/odbalapure/bookmyseats
 - https://github.com/odbalapure/fixit
 
-### 
+<hr style="width: 60%" align="center"> 
 <div>LinkedIn</div>
 
 <!--
