@@ -16,9 +16,9 @@ Have a look some of my full stack projects
 - https://github.com/odbalapure/fixit
 
 ## Get in touch
-<div align="center" style="display: flex; justify-content: evenly ; align-items: center;">
-  <img height="40px" src="https://user-images.githubusercontent.com/83666636/158325600-36104f37-7d14-4b53-bb82-8704c32ba1e3.svg" />
-  <img height=40px src="https://user-images.githubusercontent.com/83666636/158325609-43160912-9541-4eeb-97a1-9d9fd5af4579.svg" />
+<div align="center" style="display: flex; justify-content: evenly; align-items: center;">
+  <a href="href="mailto:ombalapure@outlook.com"><img height="40px" src="https://user-images.githubusercontent.com/83666636/158325600-36104f37-7d14-4b53-bb82-8704c32ba1e3.svg" /></a>
+  <a href="https://www.linkedin.com/in/om-balapure-442a22190"><img height=40px src="https://user-images.githubusercontent.com/83666636/158325609-43160912-9541-4eeb-97a1-9d9fd5af4579.svg" /></a>  
 </div>
 
 <!--
