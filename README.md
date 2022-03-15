@@ -9,7 +9,7 @@ I am a Software Engineer and I am very passionate about Full Stack Web Developme
 - MongoDB
 
 ## Projects
-Have a look some of my full stack projects
+Have a look at some of my full stack projects
 - https://github.com/odbalapure/whatzup
 - https://github.com/odbalapure/groxeries
 - https://github.com/odbalapure/bookmyseats
