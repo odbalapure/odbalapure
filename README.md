@@ -17,8 +17,8 @@ Have a look some of my full stack projects
 
 ## Get in touch
 <div align="center" style="d-flex justify-content-center">
-  <img height="15px" src="https://user-images.githubusercontent.com/83666636/158325600-36104f37-7d14-4b53-bb82-8704c32ba1e3.svg" />
-  <img height=150px src="https://user-images.githubusercontent.com/83666636/158325609-43160912-9541-4eeb-97a1-9d9fd5af4579.svg" />
+  <img height="40px" src="https://user-images.githubusercontent.com/83666636/158325600-36104f37-7d14-4b53-bb82-8704c32ba1e3.svg" />
+  <img height=40px src="https://user-images.githubusercontent.com/83666636/158325609-43160912-9541-4eeb-97a1-9d9fd5af4579.svg" />
 </div>
 
 <!--
