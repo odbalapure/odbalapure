@@ -6,7 +6,7 @@ I am a Software Engineer working in the test automation domain with a keen inter
 - HTML, CSS and Javascript
 - React.JS
 - Node.JS
-- MongogoDB
+- MongoDB
 
 ## Projects
 Have a look some of my full stack projects
