@@ -1,4 +1,19 @@
-### Hi there, I am Om Balapure 👋
+### Om Balapure 👋
+
+I am a Software Engineer working in the test automation domain with a keen interest in Fullstack Web Developement
+
+## Skills
+- HTML, CSS and Javascript
+- React.JS
+- Node.JS
+- MongogoDB
+
+## Projects
+Have a look some of my full stack projects
+- https://github.com/odbalapure/whatzup
+- https://github.com/odbalapure/groxeries
+- https://github.com/odbalapure/bookmyseats
+- https://github.com/odbalapure/fixit
 
 <!--
 **odbalapure/odbalapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer working in the test automation domain
-with a keen interest in Fullstack Web Developement
 
