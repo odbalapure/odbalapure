@@ -1,4 +1,4 @@
-## Om Balapure 👋
+## Om Balapure
 
 I am a Software Engineer and I am very passionate about Full Stack Web Development.
 
