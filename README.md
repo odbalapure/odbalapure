@@ -1,6 +1,7 @@
 ## Om Balapure
 
-I am a Software Engineer and have experience in the Test Automation and System Software domain.
+I am a Software Engineer with overall experience of 2yrs. 
+I have worked in the test automation and system software domain.
 And I am very passionate about Full Stack Web Development.
 
 ## Skills
