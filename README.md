@@ -7,6 +7,9 @@ And I am very passionate about Full Stack Web Development.
 ## Skills
 - HTML, CSS and Javascript
 - React.JS
+- Typescript
+- Next.JS
+- Tailwind CSS
 - Node.JS
 - MongoDB
 
