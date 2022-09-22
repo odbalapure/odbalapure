@@ -1,8 +1,8 @@
 ## Om Balapure
 
-I am a Software Engineer with overall experience of 2yrs. 
+I am a Software Engineer with 2yrs of experience. 
 I have worked in the test automation and system software domain.
-And I am very passionate about Full Stack Web Development.
+Currently working as a Full Stack Engineer.
 
 ## Skills
 - HTML, CSS and Javascript
