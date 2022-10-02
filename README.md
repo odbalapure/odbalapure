@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Om Balapure!
 I am a **Software Engineer** with 2.5yrs of experience. 
-I have worked in the **Test Automation**__ and **System Software**__ domain.
-Currently working as a **Full Stack Engineer**__.
+I have worked in the **Test Automation** and **System Software** domain.
+Currently working as a **Full Stack Engineer**.
 
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odbalapure&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,11 +10,7 @@ Currently working as a **Full Stack Engineer**__.
 
 ## 🧰Toolbox
 <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/html-5.svg" alt="HTML5 Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/css-3.svg" alt="CSS3 Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/javascript.svg" alt="Javascript Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react.svg" alt="React Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nextjs.svg" alt="NextJS Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/java.svg" alt="Core Java Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/spring.svg" alt="Spring Logo" width="50" height="50"/>
-
+<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/css-3.svg" alt="CSS3 Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/javascript.svg" alt="Javascript Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/bootstrap.svg" alt="Bootstrap Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react.svg" alt="React Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nextjs.svg" alt="NextJS Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/java.svg" alt="Core Java Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/spring.svg" alt="Spring Logo" width="50" height="50"/><img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs.svg" alt="NodeJS Logo" width="50" height="50"/>
 
 
 ## Projects
