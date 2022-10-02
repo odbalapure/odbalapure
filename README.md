@@ -8,7 +8,12 @@ Currently working as a Full Stack Engineer.
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=odbalapure&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills
+---
+
+🧰 Toolbox
+
+---
+
 - HTML, CSS and Javascript
 - React.JS
 - Typescript
