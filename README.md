@@ -1,5 +1,11 @@
 ## Om Balapure
 
+## &#x1f4c8; My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_GitHub_username>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your_GitHub_username>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 I am a Software Engineer with 2yrs of experience. 
 I have worked in the test automation and system software domain.
 Currently working as a Full Stack Engineer.
