@@ -9,6 +9,7 @@ Currently working as a Full Stack Engineer.
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=odbalapure&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧰Toolbox
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 - HTML, CSS and Javascript
 - React.JS
