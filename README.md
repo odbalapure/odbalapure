@@ -3,16 +3,12 @@ I am a Software Engineer with 2.5yrs of experience.
 I have worked in the Test Automation and System Software domain.
 Currently working as a Full Stack Engineer.
 
----
 ## &#x1f4c8; My GitHub Stats
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odbalapure&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=odbalapure&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-🧰 Toolbox
----
+🧰 ##Toolbox
 
 - HTML, CSS and Javascript
 - React.JS
