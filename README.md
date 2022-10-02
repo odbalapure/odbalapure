@@ -9,8 +9,8 @@ Currently working as a Full Stack Engineer.
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=odbalapure&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🧰Toolbox
-<img src="[https://cdn.worldvectorlogo.com/logos/javascript.svg](https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/java.svg)" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="[https://cdn.worldvectorlogo.com/logos/css3.svg](https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/spring.svg)" alt="CSS Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/java.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/spring.svg" alt="CSS Logo" width="50" height="50"/>
 
 
 
