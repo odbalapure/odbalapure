@@ -21,7 +21,6 @@ Currently working as a **Full Stack Engineer**.
 
 
 ## Projects
-Have a look at some of my full stack projects
 - https://github.com/odbalapure/whatzup
 - https://github.com/odbalapure/groxeries
 - https://github.com/odbalapure/bookmyseats
