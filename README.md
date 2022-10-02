@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Om Balapure!
 I am a **Software Engineer** with 2.5yrs of experience. 
-I have worked in the __**Test Automation**__ and __**System Software**__ domain.
-Currently working as a __**Full Stack Engineer**__.
+I have worked in the **Test Automation**__ and **System Software**__ domain.
+Currently working as a **Full Stack Engineer**__.
 
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odbalapure&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
