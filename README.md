@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Om Balapure!
-I am a **Software Engineer** with 2.5yrs of experience. Currently working as a Frontend Engineer but also have prior experience in the Test Automation and System Software Domain.
+I am a Software Engineer with 2.5yrs of experience. Currently working as a **Frontend Engineer** but also have prior experience in the **Test Automation** and **System Software** Domain.
 <br />
-Experience in building Single Page Applications with user friendly interfaces. Also, writing Makefiles to create/build Debian packages, PERL/Python scripts to automate manual tasks and doing functional testing.
+Experience in building SPAs i.e. **_Single Page Applications_** with user friendly interfaces. Also, writing Makefiles to create/build Debian packages, PERL/Python scripts to automate manual tasks and doing functional testing.
 
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odbalapure&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
