@@ -19,13 +19,6 @@ Experience in building SPAs i.e. **_Single Page Applications_** with user friend
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mysql.svg" alt="NodeJS Logo" width="50" height="50"/>
 </div>
 
-
-## Projects
-- https://github.com/odbalapure/whatzup
-- https://github.com/odbalapure/groxeries
-- https://github.com/odbalapure/bookmyseats
-- https://github.com/odbalapure/fixit
-
 ## Get in touch
 <div style="display: flex;">
   <a target="_blank" href="https://www.linkedin.com/in/om-balapure-442a22190"><img height="30px" src="https://user-images.githubusercontent.com/83666636/158325600-36104f37-7d14-4b53-bb82-8704c32ba1e3.svg" /></a>  
