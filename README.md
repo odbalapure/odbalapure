@@ -1,7 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Om Balapure! <br />
-I am a Software Engineer with over 4yrs of experience. Currently working as a **Software Engineer** <br />
-Experience in building SPAs i.e. **_Single Page Applications_** with user friendly interfaces. Develop scalable APIs using Node & Express.
+Software Engineer experienced in building and improving web applications. I’ve worked on platform migrations, data privacy compliance, improving uptime, performance, and user experience while reducing build times.  
 
+I use React.js, Node.js, and complementary technologies like Express.js, GraphQL to write clean, tested code and integrate tools like analytics, payment systems, and error-tracking solutions to support business goals. I’ve enhanced app security, improved content management systems for usability, and automated workflows to save time and increase efficiency.  
+
+I work well with teams, solve complex problems, and deliver projects that create impact.
 ## &#x1f4c8; My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odbalapure&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
